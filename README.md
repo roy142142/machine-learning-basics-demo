@@ -34,7 +34,6 @@ The examples focus on a house price regression task, where the goal is to predic
 machine-learning-basics-demo/
 │
 ├── README.md
-├── requirements.txt
 │
 └── scripts/
     ├── 01_decision_tree_random_forest.py
